@@ -1,0 +1,66 @@
+<svg width="380" height="394" xmlns="http://www.w3.org/2000/svg"> <rect width="100%" height="100%" fill="#FEFEFE" />
+<line x1="70" y1="268" x2="310" y2="268" stroke="#9f9f9f" stroke-width="1" />
+<rect x="70" y="82" width="240" height="186" fill="#FEFEFE" />
+<text text-anchor="middle" x="190.0" y="20" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" font-size="22" fill="#000000">Popularity of the</text>
+<text text-anchor="middle" x="190.0" y="42" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="bold" font-size="22" fill="#000000">&apos;rickroll&apos; meme</text>
+<text text-anchor="start" x="40" y="313.3333333333333" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9f9f9f">Relative volume of Google searches for</text>
+<text text-anchor="start" x="40" y="329.3333333333333" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9f9f9f">&apos;rickroll&apos; (without quotes, in the</text>
+<text text-anchor="start" x="40" y="345.3333333333333" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9f9f9f">United States) &#183; Source: Google Trends</text>
+<text text-anchor="start" x="40" y="368.66666666666663" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#DDDDDD">tylervigen.com/spurious/variable?id=25168</text>
+<polyline points="20,308.66666666666663 37,308.66666666666663" style="fill:none;stroke:#000000;stroke-width:2.5" stroke-dasharray="3,1" />
+<circle cx="20" cy="308.66666666666663" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<text x="5" y="180.0" transform="rotate(270 5 175.0)" text-anchor="middle" fill="#000000" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" dominant-baseline="central">Relative popularity</text>
+<line x1="71" y1="89.0" x2="308" y2="89.0" stroke="#F3F3F3" stroke-width="1" fill="#FEFEFE" />
+<text text-anchor="end" x="62" y="93.66666666666667" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#000000">34</text>
+<line x1="71" y1="132.0" x2="308" y2="132.0" stroke="#F3F3F3" stroke-width="1" fill="#FEFEFE" />
+<text text-anchor="end" x="62" y="136.66666666666666" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12">26</text>
+<line x1="71" y1="175.0" x2="308" y2="175.0" stroke="#F3F3F3" stroke-width="1" fill="#FEFEFE" />
+<text text-anchor="end" x="62" y="179.66666666666666" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12">17</text>
+<line x1="71" y1="218.0" x2="308" y2="218.0" stroke="#F3F3F3" stroke-width="1" fill="#FEFEFE" />
+<text text-anchor="end" x="62" y="222.66666666666666" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12">9</text>
+<line x1="71" y1="261.0" x2="308" y2="261.0" stroke="#F3F3F3" stroke-width="1" fill="#FEFEFE" />
+<text text-anchor="end" x="62" y="265.6666666666667" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12">0</text>
+<polyline points="77.0,268 77.0,274" style="fill:none;stroke:#000000;stroke-width:1" />
+<polyline points="143.47058823529412,268 143.47058823529412,274" style="fill:none;stroke:#000000;stroke-width:1" />
+<polyline points="209.94117647058823,268 209.94117647058823,274" style="fill:none;stroke:#000000;stroke-width:1" />
+<polyline points="276.4117647058823,268 276.4117647058823,274" style="fill:none;stroke:#000000;stroke-width:1" />
+<text text-anchor="middle" x="77.0" y="289" font-weight="bold" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14">2006</text>
+<text text-anchor="middle" x="143.47058823529412" y="289" font-weight="bold" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14">2011</text>
+<text text-anchor="middle" x="209.94117647058823" y="289" font-weight="bold" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14">2016</text>
+<text text-anchor="middle" x="276.4117647058823" y="289" font-weight="bold" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14">2021</text>
+<polyline points="77.0,260.4978102189781 90.29411764705883,205.30263357664234" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="90.29411764705883,205.30263357664234 103.58823529411765,89.0" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="103.58823529411765,89.0 116.88235294117646,179.3941605839416" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="116.88235294117646,179.3941605839416 130.1764705882353,197.3891270072993" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="130.1764705882353,197.3891270072993 143.47058823529412,211.19949664233576" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="143.47058823529412,211.19949664233576 156.76470588235293,231.28708788321168" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="156.76470588235293,231.28708788321168 170.05882352941177,236.30898569343066" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="170.05882352941177,236.30898569343066 183.3529411764706,237.5644601459854" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="183.3529411764706,237.5644601459854 196.64705882352942,231.70561284671533" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="196.64705882352942,231.70561284671533 209.94117647058823,225.00971562043796" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="209.94117647058823,225.00971562043796 223.23529411764707,241.33088350364963" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="223.23529411764707,241.33088350364963 236.52941176470588,248.44525547445255" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="236.52941176470588,248.44525547445255 249.82352941176472,248.8637302189781" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="249.82352941176472,248.8637302189781 263.11764705882354,222.49876671532846" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="263.11764705882354,222.49876671532846 276.4117647058824,194.45985401459853" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="276.4117647058824,194.45985401459853 289.7058823529412,138.38182773722627" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<polyline points="289.7058823529412,138.38182773722627 303.0,185.25320875912408" style="fill:none;stroke:#000000;stroke-width:2.5"  />
+<circle cx="77.0" cy="260.4978102189781" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="90.29411764705883" cy="205.30263357664234" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="103.58823529411765" cy="89.0" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="116.88235294117646" cy="179.3941605839416" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="130.1764705882353" cy="197.3891270072993" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="143.47058823529412" cy="211.19949664233576" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="156.76470588235293" cy="231.28708788321168" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="170.05882352941177" cy="236.30898569343066" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="183.3529411764706" cy="237.5644601459854" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="196.64705882352942" cy="231.70561284671533" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="209.94117647058823" cy="225.00971562043796" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="223.23529411764707" cy="241.33088350364963" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="236.52941176470588" cy="248.44525547445255" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="249.82352941176472" cy="248.8637302189781" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="263.11764705882354" cy="222.49876671532846" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="276.4117647058824" cy="194.45985401459853" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="289.7058823529412" cy="138.38182773722627" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+<circle cx="303.0" cy="185.25320875912408" r="2" stroke="#000000" stroke-width="2" fill="#000000"  />
+</svg>

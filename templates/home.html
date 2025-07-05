@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Welcome to the Rick Astley Fan Page!</h1>
+
+    <p>Discover the enduring legacy of Rick Astley, the man behind the global phenomenon "Never Gonna Give You Up." This site is dedicated to exploring his iconic song, his remarkable career, the pervasive meme it spawned, and his lasting impact on pop culture.</p>
+
+    <h2>Explore the Journey:</h2>
+
+    <ul>
+        <li><strong><a href="/the_song">The Song: "Never Gonna Give You Up"</a></strong>: Dive into the history and impact of the hit single that defined a generation and continues to resonate today.</li>
+        <li><strong><a href="/the_artist">The Artist: Rick Astley</a></strong>: Learn about Rick Astley's life, his musical journey, and his resurgence in recent years.</li>
+        <li><strong><a href="/the_meme">The Meme: Rickrolling</a></strong>: Unpack the cultural phenomenon of Rickrolling, its origins, and its evolution into an internet staple.</li>
+        <li><strong><a href="/the_legacy">The Legacy: Beyond the Meme</a></strong>: Explore Rick Astley's continued musical contributions, his live performances, and his enduring appeal.</li>
+    </ul>
+
+    <hr>
+
+    <h3>Featured Video:</h3>
+    <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ?rel=0" allowfullscreen></iframe>
+    </div>
+
+    <h3>Featured Image:</h3>
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <img src="/static/images/rick-astley-singing-live.webp" alt="Rick Astley Singing Live" class="img-fluid">
+            <p class="text-muted"><em>Rick Astley captivating an audience with his timeless voice.</em></p>
+        </div>
+    </div>
+{% endblock %}
