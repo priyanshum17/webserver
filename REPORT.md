@@ -31,7 +31,7 @@ I performed two levels of remote testing. First, I ran the server on my local la
 
 For the  remote test, I deployed the entire application to **Render**. This gave me a public URL, which I then used as the target for all my performance and stress tests. This was the most realistic test possible, as it involved the real-world latency of the public internet between my testing machine and Render's servers.
 
-![Iphone](tests/analytics/Iphone.png)
+![Iphone](tests/analytics/Iphone.PNG)
 
 ### **3. How did you test your server's latency and throughput?**
 
