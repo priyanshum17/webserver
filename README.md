@@ -42,7 +42,7 @@ All results from the advanced analysis, including detailed visualizations and ra
     ```
 
 3.  **Run the analysis:**
-    *   Open and run the `advanced_test_analysis.ipynb` notebook.
+    *   Open and run the `DEMO.ipynb` notebook.
     ```bash
-    jupyter notebook advanced_test_analysis.ipynb
+    jupyter notebook DEMO.ipynb
     ```
